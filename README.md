@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=220&section=header&text=LOHITH%20S&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=62&descSize=17&descColor=e9d5ff" />
+<!-- Header Banner using SVG -->
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="200" fill="url(#grad)" rx="0"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="60" font-weight="bold" font-family="monospace" fill="#ffffff" letter-spacing="6">LOHITH S</text>
+  <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-size="16" font-family="monospace" fill="#e9d5ff" letter-spacing="2">Web Developer | AI Enthusiast | CS &amp; Business Systems</text>
+</svg>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -177,7 +188,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=22&fontColor=e9d5ff&animation=fadeIn"/>
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6d28d9"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100" fill="url(#footerGrad)" rx="0"/>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="monospace" fill="#e9d5ff" letter-spacing="2">Thanks for visiting! ⭐</text>
+</svg>
 
 **"Code is poetry — write yours with purpose."**
 
