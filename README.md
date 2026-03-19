@@ -12,6 +12,10 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Developer-Ruby%20Paid%20Service-dc2626?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role"/>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/_lohith_18____?igsh=bDZmMnA2OTBubHQ=" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -43,7 +47,9 @@ name        : Lohith S
 institute   : PESCE, Mandya
 degree      : B.E – Computer Science & Business Systems
 year        : 1st Year (2024–2028)
-role        : Web Developer | AI Enthusiast
+role        : AI Full Stack Developer @ Ruby Paid Service
+also        : Web Developer | AI Enthusiast
+job         : AI Full Stack Developer @ Ruby Paid Service
 location    : India 🇮🇳
 status      : Building cool projects 🚀
 mission     : Solve real-world problems
@@ -58,6 +64,8 @@ mission     : Solve real-world problems
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
+
+💼 &nbsp;**AI Full Stack Developer** at **Ruby Paid Service**
 
 🌍 &nbsp;Based in **India** — thinking globally, building locally
 
