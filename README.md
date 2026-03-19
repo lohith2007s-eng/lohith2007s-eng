@@ -44,16 +44,11 @@
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 👤 **Name** | Lohith S |
-| 🏫 **Institute** | PESCE, Mandya |
-| 🎓 **Degree** | B.E – Computer Science & Business Systems |
-| 📅 **Year** | 1st Year (2024–2028) |
-| 🧑‍💻 **Role** | AI Full Stack Developer @ Ruby Paid Service |
-| 📍 **Location** | India 🇮🇳 |
-| ⚡ **Status** | Building cool projects 🚀 |
-| 🎯 **Mission** | Solve real-world problems 💡 |
+👤 **Lohith S** &nbsp;|&nbsp; 🏫 **PESCE, Mandya** &nbsp;|&nbsp; 🎓 **B.E – CS & Business Systems**
+
+🧑‍💻 **AI Full Stack Developer @ Ruby Paid Service** &nbsp;|&nbsp; 📅 **1st Year (2024–2028)**
+
+📍 **India** 🇮🇳 &nbsp;|&nbsp; ⚡ **Building cool projects** 🚀 &nbsp;|&nbsp; 🎯 **Solving real-world problems** 💡
 
 </div>
 
