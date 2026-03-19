@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=LOHITH%20S&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=75&descSize=16&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=LOHITH%20S&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=62&descSize=17&descColor=c4b5fd" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;1st+Year+CS+%26+Business+Systems+%40+PESCE;Web+Dev+%2B+AI+%3D+Limitless+Possibilities+%E2%9C%A8;Solving+Real-World+Problems+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;1st+Year+CS+%26+Business+Systems+%40+PESCE;Web+Dev+%2B+AI+%3D+Limitless+Possibilities+%E2%9C%A8;Solving+Real-World+Problems+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lohith-s&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=lohith2007s-eng&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -55,7 +55,7 @@ mission     : Solve real-world problems
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
 
@@ -110,13 +110,13 @@ mission     : Solve real-world problems
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lohith2007s-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lohith2007s-eng&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=lohith2007s-eng&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2007s-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" />
 </div>
 
 ---
@@ -124,7 +124,7 @@ mission     : Solve real-world problems
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lohith-s&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lohith2007s-eng&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ mission     : Solve real-world problems
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith-s&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith2007s-eng&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -164,7 +164,7 @@ mission     : Solve real-world problems
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&text=Thanks+for+visiting!+⭐&fontSize=20&fontColor=a78bfa&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=22&fontColor=c4b5fd&animation=fadeIn"/>
 
 **"Code is poetry — write yours with purpose."**
 
