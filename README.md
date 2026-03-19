@@ -109,8 +109,8 @@ mission     : Solve real-world problems
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lohith-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lohith-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lohith2007s-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lohith2007s-eng&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 <br/>
