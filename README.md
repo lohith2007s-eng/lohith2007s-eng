@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=LOHITH%20S&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=62&descSize=17&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=220&section=header&text=LOHITH%20S&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=62&descSize=17&descColor=e9d5ff" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -177,7 +177,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=22&fontColor=c4b5fd&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=22&fontColor=e9d5ff&animation=fadeIn"/>
 
 **"Code is poetry — write yours with purpose."**
 
