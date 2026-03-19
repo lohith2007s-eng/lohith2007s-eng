@@ -44,7 +44,7 @@
 
 <div align="center">
 
-| 🔑 Field | 📄 Info |
+| | |
 |:---|:---|
 | 👤 **Name** | Lohith S |
 | 🏫 **Institute** | PESCE, Mandya |
