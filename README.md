@@ -1,47 +1,87 @@
-<h1 align="center">Hi 👋, I'm Lohith</h1>
-<h3 align="center">Engineer | Builder | Innovator</h3>
+<h1 align="center">⚡ Lohith S</h1>
+<p align="center"><i>Building skills. Creating impact. One project at a time.</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-orange?style=for-the-badge"></a>
+  <a href="https://www.instagram.com/_lohith_18____?igsh=bDZmMnA2OTBubHQ=">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lohith-s-921a5735a">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://lohithportpolios.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 SYSTEM IDENTITY
+## 🧠 ABOUT ME
 
-- **Name**: Lohith S  
-- **Role**: Web Developer | AI Enthusiast  
-- **Location**: India  
-- **Status**: Building cool projects 🚀  
-- **Interests**: AI, Web Dev, Startups  
-- **Mission**: Solve real-world problems  
+```yaml
+Name: Lohith S
+Education: 1st Year Computer Science and Business Systems
+College: PESCE, Mandya
+
+Role: Web Developer | AI Enthusiast
+Location: India
+
+Status: Building cool projects 🚀
+Interests: AI, Web Development, Startups
+Mission: Solve real-world problems
+```
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- C 
-- Supabase, Firebase 
+## ⚡ CURRENT MINDSET
+
+> I’m not here just to study.
+> I’m here to build, experiment, and grow fast.
+
+* Learning by doing 💡
+* Exploring real-world tech 🔍
+* Focused on creating useful projects 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 TECH STACK
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lohith2007s-eng&show_icons=true)
+```text
+Languages:
+Python | C
 
-<!--
-**lohith2007s-eng/lohith2007s-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tools & Platforms:
+Supabase | Firebase
 
-Here are some ideas to get you started:
+Currently Exploring:
+Web Development + AI Integration
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 WHAT I’M WORKING ON
+
+* Building projects that solve real problems
+* Improving full-stack development skills
+* Exploring AI-powered applications
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 📡 CONNECT WITH ME
+
+* 📸 Instagram: @*lohith_18*___
+* 💼 LinkedIn: Lohith S
+* 🌐 Portfolio: lohithportpolios.vercel.app
+
+---
+
+## ⚠️ FINAL NOTE
+
+> “Still learning. Still building. Not stopping.”
