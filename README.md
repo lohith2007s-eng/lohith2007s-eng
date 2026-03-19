@@ -1,87 +1,173 @@
-<h1 align="center">⚡ Lohith S</h1>
-<p align="center"><i>Building skills. Creating impact. One project at a time.</i></p>
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=LOHITH%20S&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=75&descSize=16&descColor=a78bfa" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;1st+Year+CS+%26+Business+Systems+%40+PESCE;Web+Dev+%2B+AI+%3D+Limitless+Possibilities+%E2%9C%A8;Solving+Real-World+Problems+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.instagram.com/_lohith_18____?igsh=bDZmMnA2OTBubHQ=">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/_lohith_18____?igsh=bDZmMnA2OTBubHQ=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/lohith-s-921a5735a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lohith-s-921a5735a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://lohithportpolios.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  &nbsp;
+  <a href="https://lohithportpolios.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
+<br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=lohith-s&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+
+</div>
+
 ---
 
-## 🧠 ABOUT ME
+<br/>
+
+## 🌌 `whoami`
 
 ```yaml
-Name: Lohith S
-Education: 1st Year Computer Science and Business Systems
-College: PESCE, Mandya
-
-Role: Web Developer | AI Enthusiast
-Location: India
-
-Status: Building cool projects 🚀
-Interests: AI, Web Development, Startups
-Mission: Solve real-world problems
+name        : Lohith S
+institute   : PESCE, Mandya
+degree      : B.E – Computer Science & Business Systems
+year        : 1st Year (2024–2028)
+role        : Web Developer | AI Enthusiast
+location    : India 🇮🇳
+status      : Building cool projects 🚀
+mission     : Solve real-world problems
 ```
 
----
-
-## ⚡ CURRENT MINDSET
-
-> I’m not here just to study.
-> I’m here to build, experiment, and grow fast.
-
-* Learning by doing 💡
-* Exploring real-world tech 🔍
-* Focused on creating useful projects 🚀
+<br/>
 
 ---
 
-## 🛠 TECH STACK
+## ⚡ About Me
 
-```text
-Languages:
-Python | C
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Tools & Platforms:
-Supabase | Firebase
+🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
 
-Currently Exploring:
-Web Development + AI Integration
-```
+🌍 &nbsp;Based in **India** — thinking globally, building locally
+
+🤖 &nbsp;Passionate about **Artificial Intelligence** & its real-world applications
+
+💻 &nbsp;Building projects at the intersection of **Web Dev + AI**
+
+🚀 &nbsp;Currently exploring **startups, automation & full-stack development**
+
+💡 &nbsp;Mission: **Turn ideas into impactful digital solutions**
+
+🌱 &nbsp;Always **learning, experimenting, and growing**
+
+<br clear="right"/>
 
 ---
 
-## 🚀 WHAT I’M WORKING ON
+## 🛠️ Tech Stack
 
-* Building projects that solve real problems
-* Improving full-stack development skills
-* Exploring AI-powered applications
+<div align="center">
 
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohith2007s-eng&show_icons=true&theme=tokyonight"/>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+</div>
+
 ---
 
-## 📡 CONNECT WITH ME
+## 📊 GitHub Stats
 
-* 📸 Instagram: @*lohith_18*___
-* 💼 LinkedIn: Lohith S
-* 🌐 Portfolio: lohithportpolios.vercel.app
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lohith-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lohith-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff" />
+</div>
 
 ---
 
-## ⚠️ FINAL NOTE
+## 🏆 GitHub Trophies
 
-> “Still learning. Still building. Not stopping.”
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lohith-s&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌍 **Portfolio** | [lohithportpolios.vercel.app](https://lohithportpolios.vercel.app/) |
+| 📸 **Instagram** | [@_lohith_18____](https://www.instagram.com/_lohith_18____?igsh=bDZmMnA2OTBubHQ=) |
+| 💼 **LinkedIn** | [lohith-s](https://www.linkedin.com/in/lohith-s-921a5735a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith-s&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&text=Thanks+for+visiting!+⭐&fontSize=20&fontColor=a78bfa&animation=twinkling"/>
+
+**"Code is poetry — write yours with purpose."**
+
+*Made with ❤️ by Lohith S | PESCE, Mandya*
+
+</div>
