@@ -121,10 +121,18 @@ mission     : Solve real-world problems
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lohith2007s-eng&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+| 🥇 First Commit | 🤖 AI Builder | 💻 Web Developer |
+|:-:|:-:|:-:|
+| Unlocked ✅ | Active 🔥 | Leveling Up ⚡ |
+
+| 🎓 PESCE Student Coder | 🚀 Startup Dreamer | 🌍 Open Source Journey |
+|:-:|:-:|:-:|
+| 1st Year 📚 | Building Ideas 💡 | Just Getting Started 🌱 |
+
 </div>
 
 ---
