@@ -48,8 +48,6 @@ institute   : PESCE, Mandya
 degree      : B.E – Computer Science & Business Systems
 year        : 1st Year (2024–2028)
 role        : AI Full Stack Developer @ Ruby Paid Service
-also        : Web Developer | AI Enthusiast
-job         : AI Full Stack Developer @ Ruby Paid Service
 location    : India 🇮🇳
 status      : Building cool projects 🚀
 mission     : Solve real-world problems
@@ -65,7 +63,7 @@ mission     : Solve real-world problems
 
 🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
 
-💼 &nbsp;**AI Full Stack Developer** at **Ruby Paid Service**
+🧑‍💻 &nbsp;**Role:** AI Full Stack Developer @ **Ruby Paid Service**
 
 🌍 &nbsp;Based in **India** — thinking globally, building locally
 
@@ -187,3 +185,4 @@ mission     : Solve real-world problems
 *Made with ❤️ by Lohith S | PESCE, Mandya*
 
 </div>
+
