@@ -69,7 +69,7 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
 
