@@ -46,7 +46,7 @@
 
 👤 **Lohith S** &nbsp;|&nbsp; 🏫 **PESCE, Mandya** &nbsp;|&nbsp; 🎓 **B.E – CS & Business Systems**
 
-🧑‍💻 **AI Full Stack Developer @ Ruby Paid Service** &nbsp;|&nbsp; 📅 **1st Year (2024–2028)**
+🧑‍💻 **AI Full Stack Developer @ Ruby Paid Service** &nbsp;|&nbsp; 📅 **1st Year (2025–2029)**
 
 📍 **India** 🇮🇳 &nbsp;|&nbsp; ⚡ **Building cool projects** 🚀 &nbsp;|&nbsp; 🎯 **Solving real-world problems** 💡
 
