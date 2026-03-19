@@ -42,16 +42,20 @@
 
 ## 🌌 `whoami`
 
-```yaml
-name        : Lohith S
-institute   : PESCE, Mandya
-degree      : B.E – Computer Science & Business Systems
-year        : 1st Year (2024–2028)
-role        : AI Full Stack Developer @ Ruby Paid Service
-location    : India 🇮🇳
-status      : Building cool projects 🚀
-mission     : Solve real-world problems
-```
+<div align="center">
+
+| 🔑 Field | 📄 Info |
+|:---|:---|
+| 👤 **Name** | Lohith S |
+| 🏫 **Institute** | PESCE, Mandya |
+| 🎓 **Degree** | B.E – Computer Science & Business Systems |
+| 📅 **Year** | 1st Year (2024–2028) |
+| 🧑‍💻 **Role** | AI Full Stack Developer @ Ruby Paid Service |
+| 📍 **Location** | India 🇮🇳 |
+| ⚡ **Status** | Building cool projects 🚀 |
+| 🎯 **Mission** | Solve real-world problems 💡 |
+
+</div>
 
 <br/>
 
@@ -185,4 +189,3 @@ mission     : Solve real-world problems
 *Made with ❤️ by Lohith S | PESCE, Mandya*
 
 </div>
-
