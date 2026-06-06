@@ -23,7 +23,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Developer-Ruby%20Paid%20Service-dc2626?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role"/>
+  <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Developer-6d28d9?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Role"/>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 👤 **Lohith S** &nbsp;|&nbsp; 🏫 **PESCE, Mandya** &nbsp;|&nbsp; 🎓 **B.E – CS & Business Systems**
 
-🧑‍💻 **AI Full Stack Developer @ Ruby Paid Service** &nbsp;|&nbsp; 📅 **1st Year (2025–2029)**
+🧑‍💻 **AI Full Stack Developer** &nbsp;|&nbsp; 📅 **1st Year (2025–2029)**
 
 📍 **India** 🇮🇳 &nbsp;|&nbsp; ⚡ **Building cool projects** 🚀 &nbsp;|&nbsp; 🎯 **Solving real-world problems** 💡
 
@@ -73,7 +73,7 @@
 
 🎓 &nbsp;Studying **CS & Business Systems** at **PESCE, Mandya**
 
-🧑‍💻 &nbsp;**Role:** AI Full Stack Developer @ **Ruby Paid Service**
+🧑‍💻 &nbsp;**Role:** AI Full Stack Developer
 
 🌍 &nbsp;Based in **India** — thinking globally, building locally
 
